@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(245,245,247);
+    font-family:sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    color:rgb(39, 38, 92);
+}
+h2{
+    font-size: 40px;
+    color: rgb(170, 34, 0);
+}
+a{
+    color: rgb(170, 34, 0);
+}
